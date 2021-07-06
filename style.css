@@ -1,0 +1,83 @@
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+  text-align: justify;
+}
+h1 {
+  font-size: 50px;
+}
+.red {
+  color: red;
+}
+.gray {
+  color: gray;
+}
+.flexible {
+  display: flex;
+  margin-bottom: 150px;
+}
+.recipe {
+  color: gray;
+  text-align: center;
+}
+.button {
+  text-decoration: none;
+  background-image: linear-gradient(red, Pink);
+  padding: 10px 40px;
+  color: white;
+  font-weight: 700;
+  border-radius: 5px;
+}
+.Bottom {
+  width: 50%;
+  margin-left: 25%;
+  text-align: center;
+}
+.Middle-banner {
+  background-image: url(images/shapes/Red_Frame.jpg);
+  background-repeat: no-repeat;
+  width: 95%;
+  margin-left: 2%;
+}
+.Middle img {
+  width: 100%;
+  margin: 40px;
+}
+.Middle {
+  width: 80%;
+  margin-left: 2%;
+  padding-right: 6%;
+}
+.Top img {
+  width: 80%;
+  margin: 40px;
+}
+.Top {
+  width: 80%;
+  padding-left: 6%;
+  padding-right: 6%;
+}
+.Menu {
+  width: 93%;
+  margin-left: 20px;
+  margin-right: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+  border-radius: 20px;
+  box-shadow: 5px 5px 5px 5px gray;
+}
+#Food {
+  margin: 40px;
+}
+#Social_Media {
+  text-align: center;
+  margin: 10px;
+  padding-left: 150px;
+  padding-right: 100px;
+}
+footer {
+  background-color: black;
+  text-align: center;
+  color: white;
+  padding: 20px;
+}
